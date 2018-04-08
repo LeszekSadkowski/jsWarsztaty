@@ -7,9 +7,10 @@
 
 .tooltipText {
     position: absolute;
+    text-align: center;
     top: 100%;
     display: block;
-    background-color: white;
+    background-color: cadetblue;
     color: black;
     border: solid black 1px;
     z-index: 1;
