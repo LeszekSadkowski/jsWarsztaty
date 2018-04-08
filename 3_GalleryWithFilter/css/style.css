@@ -1,3 +1,21 @@
 .invisible {
     display: none;
 }
+
+.pointer{
+    cursor: pointer;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    width: 50px;
+    height: 2em;
+}
+.pointer:hover{
+    color:white;
+    font-weight: bolder;
+    background-color: black ;
+}
+.pointer:active{
+    color:black;
+    background-color: white;
+}
